@@ -11,21 +11,6 @@
 
 from game_func import *
 
-# Del = Assassin()
-# Mel = Elementalist()
-# El = Knight()
-# Kel = Mystic()
-# print(Kel.get_stats()[0])  # example of referencing attack power
-# damage = Kel.attack()
-# print(damage)
-#
-# pain = Mel.take_damage(damage, Kel.get_dmg_type())
-# print(str(Mel.get_max_health()) + ", " + str(Mel.get_health()) + ", " + str(
-#     pain[1]) + "\n")  # example of a characters fighting
-#
-# pain2 = El.take_damage(damage, Kel.get_dmg_type())
-# print(str(El.get_max_health()) + ", " + str(El.get_health()) + ", " + str(pain2[1]) + "\n")
-
 
 def main():
     game_state = True
